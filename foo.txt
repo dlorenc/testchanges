@@ -4,3 +4,7 @@ random text foo
 some other text there
 some new text
 <ENDCHANGEBLOCK foo>
+
+<CHANGEBLOCK new>
+some text
+<ENDCHANGEBLOCK new>
