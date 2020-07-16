@@ -3,8 +3,10 @@ random text foo
 <CHANGEBLOCK foo>
 some other text there
 some new text
+some new text we forgot to update in the other place
 <ENDCHANGEBLOCK foo>
 
 <CHANGEBLOCK new>
 some text
+some other new text
 <ENDCHANGEBLOCK new>
