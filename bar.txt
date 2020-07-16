@@ -9,4 +9,5 @@ some other text there
 some text
 some new text
 and here
+numer 3
 <ENDCHANGEBLOCK new>

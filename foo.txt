@@ -9,9 +9,11 @@ some new text we forgot to update in the other place
 <CHANGEBLOCK new>
 some text
 some other new text
+number 1
 <ENDCHANGEBLOCK new>
 
 <CHANGEBLOCK new>
 third location in same file!
 add something here
+number 2
 <ENDCHANGEBLOCK new>
