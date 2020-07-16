@@ -8,4 +8,5 @@ some other text there
 <CHANGEBLOCK new>
 some text
 some new text
+and here
 <ENDCHANGEBLOCK new>

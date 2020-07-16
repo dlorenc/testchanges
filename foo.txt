@@ -13,4 +13,5 @@ some other new text
 
 <CHANGEBLOCK new>
 third location in same file!
+add something here
 <ENDCHANGEBLOCK new>
