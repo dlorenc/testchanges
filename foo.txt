@@ -1,0 +1,5 @@
+random text foo
+
+<CHANGEBLOCK foo>
+some other text there
+<ENDCHANGEBLOCK foo>
